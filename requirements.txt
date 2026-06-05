@@ -7,3 +7,4 @@ pycryptodome
 cfonts
 protobuf
 urllib3
+protobuf
