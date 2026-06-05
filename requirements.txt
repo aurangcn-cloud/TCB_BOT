@@ -7,4 +7,4 @@ pycryptodome
 cfonts
 protobuf
 urllib3
-pprotobuf==5.29.0
+protobuf==5.29.0
