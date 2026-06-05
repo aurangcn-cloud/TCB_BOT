@@ -5,6 +5,5 @@ aiohttp
 pytz
 pycryptodome
 cfonts
-protobuf
 urllib3
 protobuf==4.25.3
